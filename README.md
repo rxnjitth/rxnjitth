@@ -1,11 +1,8 @@
 <h1>Hey There 👋, I'm Ranjith</h1>
-<<<<<<< HEAD
-<p>Backend Developer & DevOps Enthusiast | Building scalable systems 🚀 | Python | ☁️ AWS  🐳 Docker| Coffee-fueled tinkerer. Let’s build something resilient!</p>
+<p>Backend Developer & DevOps Enthusiast | Building scalable systems 🚀 | Python | ☁️ AWS |🐳 Docker| Coffee-fueled tinkerer. Let’s build something resilient!</p>
 <h2>🚀 Languages and Tools I Use</h2>
-=======
 <p>A passionate Backend Developer and Dev-Ops  Enthusiast</p>
 <h2>🗿 Languages and Tools I Use</h2>
->>>>>>> f7e515df7e6079de79cacb511ec8a6ecf8880455
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
