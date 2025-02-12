@@ -1,6 +1,15 @@
 <h1>Hey There 👋, I'm Ranjith</h1>
 <p>Backend Developer & DevOps Enthusiast | Building scalable systems 🚀 | Python | ☁️ AWS |🐳 Docker| Coffee-fueled tinkerer. Let’s build something resilient!</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>🔭 I’m currently working on Django project/Website
+
+🌱 I’m currently learning Cloud & Devops / Fullstack Development / AWS
+
+💬 Ask me about Docker,Blender
+
+📫 How to reach me mranjith2506@gmail.com
+
+Connect with me:</p>
+<h2>🚀 Tech Stack</h2>
 <p>A passionate Backend Developer and Dev-Ops  Enthusiast</p>
 <h2>🗿 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
