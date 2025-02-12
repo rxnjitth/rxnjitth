@@ -6,9 +6,7 @@
 
 💬 Ask me about Python,Docker,Blender
 
-📫 How to reach me mranjith2506@gmail.com
-
-Connect with me:</p>
+📫 How to reach me mranjith2506@gmail.com</p>
 <h2>🚀 Tech Stack</h2>
 <p>A passionate Backend Developer and Dev-Ops  Enthusiast</p>
 <h2>🗿 Languages and Tools I Use</h2>
