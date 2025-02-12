@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Cloud & Devops / Fullstack Development / AWS
 
-💬 Ask me about Docker,Blender
+💬 Ask me about Python,Docker,Blender
 
 📫 How to reach me mranjith2506@gmail.com
 
