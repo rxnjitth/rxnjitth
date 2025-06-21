@@ -1,233 +1,236 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RANJITH.exe&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ff41&desc=Initializing%20Developer%20Mode...&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,8,9,15,30&height=300&section=header&text=RANJITH&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
-```css
-/* SYSTEM STATUS */
-@user: rxnjitth
-@status: ONLINE 🟢
-@mode: FULL_STACK_DEVELOPER
-@location: ~/coimbatore/tamil_nadu/india
-@mission: BUILDING_THE_FUTURE
-```
-
 <div align="center">
 
-### ⚡ NEURAL NETWORK ACTIVE ⚡
-
 ```
-    ██████╗ ██╗  ██╗███╗   ██╗     ██╗██╗████████╗████████╗██╗  ██╗
-    ██╔══██╗╚██╗██╔╝████╗  ██║     ██║██║╚══██╔══╝╚══██╔══╝██║  ██║
-    ██████╔╝ ╚███╔╝ ██╔██╗ ██║     ██║██║   ██║      ██║   ███████║
-    ██╔══██╗ ██╔██╗ ██║╚██╗██║██   ██║██║   ██║      ██║   ██╔══██║
-    ██║  ██║██╔╝ ██╗██║ ╚████║╚█████╔╝██║   ██║      ██║   ██║  ██║
-    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗    ███╗   ███╗██╗███╗   ██╗██████╗ 
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝    ████╗ ████║██║████╗  ██║██╔══██╗
+██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗      ██╔████╔██║██║██╔██╗ ██║██║  ██║
+██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝      ██║╚██╔╝██║██║██║╚██╗██║██║  ██║
+██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗    ██║ ╚═╝ ██║██║██║ ╚████║██████╔╝
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ 
 ```
 
 </div>
 
-## 🔥 SYSTEM OVERVIEW
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
+<div align="center">
+
+### ⚡ Welcome to My Digital Realm ⚡
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Enthusiast;Cloud+Architect;3D+Artist;Problem+Solver)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 About My Code Journey
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧠 CORE MODULES LOADED
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ranjith"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["Tamil", "English", "Python"]
-        self.current_focus = "Building Digital Empires"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! 🚀")
-        
-    def get_coffee(self):
-        return "☕ * 999"  # Unlimited fuel
+### 💜 Developer Profile
+```json
+{
+  "name": "Ranjith M Sundaram",
+  "role": "Full Stack Developer",
+  "location": "Coimbatore, Tamil Nadu",
+  "status": "Building Digital Solutions",
+  "passion": "Turning Ideas Into Reality",
+  "fuel": "☕ Coffee & 🎵 Music",
+  "mission": "Creating Impactful Applications"
+}
 ```
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 📡 ACTIVE CONNECTIONS
-```bash
-> Scanning network...
-> Django Server.......... [ONLINE]
-> AWS Instance........... [ACTIVE] 
-> MySQL Database......... [RUNNING]
-> Docker Container....... [DEPLOYED]
-> Coffee Machine......... [BREWING] ☕
-> Motivation Level....... [MAXIMUM] 🔥
+### 🔮 Current Quest
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = "Microservices Architecture"
+        self.building = "Django SaaS Platform"
+        self.exploring = "Kubernetes & Docker"
+        self.creating = "3D Visualizations"
+        
+    def daily_routine(self):
+        return ["Code", "Learn", "Build", "Repeat"]
 ```
 
 </td>
 </tr>
 </table>
 
-## 🛠️ TECH ARSENAL - WEAPON SELECTION
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| 🐍 Backend | 🎨 Frontend | ☁️ Cloud & DevOps | 🎯 Creative |
-|:----------:|:-----------:|:-----------------:|:----------:|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![3D](https://img.shields.io/badge/3D_Modeling-FF6B6B?style=for-the-badge&logo=cinema4d&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Design](https://img.shields.io/badge/UI_UX-4ECDC4?style=for-the-badge&logo=figma&logoColor=white) |
+### Backend Mastery
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=1A0B2E)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=9D4EDD&labelColor=1A0B2E)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Frontend Craft
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9D4EDD&labelColor=1A0B2E)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=1A0B2E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=9D4EDD&labelColor=1A0B2E)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=1A0B2E)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Creative Tools
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=9D4EDD&labelColor=1A0B2E)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9D4EDD&labelColor=1A0B2E)
 
 </div>
 
-## 📊 PERFORMANCE METRICS
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=00d9ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=7209B7&ring_color=9D4EDD"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rxnjitth&theme=synthwave&hide_border=true&background=0d1117&ring=ff6b6b&fire=00d9ff&currStreakLabel=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rxnjitth&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=7209B7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9D4EDD&sideNums=9D4EDD)
 
 </div>
 
-## 🎯 MISSION CONTROL CENTER
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```javascript
-const currentMissions = {
-    🚀 primary: "Building scalable Django applications",
-    🔬 research: "Exploring microservices architecture", 
-    🎨 creative: "Crafting 3D environments in Blender",
-    📚 learning: "Mastering Kubernetes orchestration",
-    🤝 community: "Contributing to open source projects"
-};
+## 🎯 Skill Progression
 
-// Execute missions
-Object.keys(currentMissions).forEach(mission => {
-    console.log(`${mission}: ${currentMissions[mission]}`);
-});
+<div align="center">
+
+| Technology | Experience | Proficiency |
+|:----------:|:----------:|:-----------:|
+| 🐍 **Python** | 3+ Years | ![90%](https://progress-bar.dev/90?color=9D4EDD) |
+| 🌐 **Django** | 2+ Years | ![85%](https://progress-bar.dev/85?color=9D4EDD) |
+| ☁️ **AWS** | 1+ Years | ![70%](https://progress-bar.dev/70?color=9D4EDD) |
+| 🐳 **Docker** | 1+ Years | ![65%](https://progress-bar.dev/65?color=9D4EDD) |
+| 🎨 **Frontend** | 2+ Years | ![80%](https://progress-bar.dev/80?color=9D4EDD) |
+| 🎭 **Blender** | 6+ Months | ![45%](https://progress-bar.dev/45?color=9D4EDD) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌙 Current Vibe
+
+<div align="center">
+
+### 🎵 Coding Soundtrack
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?background_color=0d1117&border_color=9d4edd)
+
+### 💭 Developer Thoughts
+```css
+.developer-mindset {
+    motivation: 100%;
+    caffeine-level: high;
+    learning-mode: always-on;
+    debug-skills: legendary;
+    creativity: unlimited;
+    problem-solving: expert;
+}
 ```
 
-## ⚡ SKILL PROGRESSION TREE
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-```
-                            🎯 EXPERT LEVEL
-                                   │
-                    ┌──────────────┼──────────────┐
-                    │              │              │
-                 🐍 Python      🌐 Django     ☁️ AWS
-                  ████████      ███████       ██████
-                  
-                            💡 ADVANCED LEVEL  
-                                   │
-                    ┌──────────────┼──────────────┐
-                    │              │              │
-                 🐳 Docker      💾 MySQL      🎨 HTML/CSS
-                  ██████        █████         ████████
-                  
-                            🌱 GROWING LEVEL
-                                   │
-                    ┌──────────────┼──────────────┐
-                    │              │              │
-              🎭 Blender      🐧 Linux      🚀 DevOps
-                ████           ██████        █████
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.linkedin.com/in/ranjithmsundaram/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.instagram.com/rxnjitth/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=1A0B2E)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=9D4EDD&labelColor=1A0B2E)](https://your-portfolio.com)
 
 </div>
 
-## 🏆 ACHIEVEMENT UNLOCKED
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
-## 🎪 ENTERTAINMENT SECTOR
+## 🎪 Fun Zone
 
 <div align="center">
 
-### 🎵 Currently Jamming To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/your-username)
-
-### 🎮 Fun Facts About This Developer
+### 🎮 Developer Stats
 ```yaml
-debugging_style: "Console.log everything until it works"
-code_music: "Lo-fi hip hop radio - beats to code/relax to"
-preferred_theme: "Dark mode or nothing"
-coffee_dependency: "Critical - System may crash without it"
-superpower: "Can turn coffee into code"
-weakness: "Semicolons in Python (old habits die hard)"
+Lines of Code Written: ∞
+Bugs Fixed: 999+
+Coffee Consumed: 🔥🔥🔥
+Stack Overflow Visits: Daily
+Favorite Debug Method: "It works on my machine" 🤷‍♂️
+Coding Playlist: Lo-fi & Synthwave
+Dream Project: World-changing app
+Superpower: Turning coffee into code
 ```
 
-</div>
-
-## 🌐 CONNECT TO MY NETWORK
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/ranjithmsundaram/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/rxnjitth/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://your-portfolio.com)
+### 🔮 Random Dev Wisdom
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&type=horizontal&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF)
 
 </div>
 
-## 💫 RANDOM DEV QUOTE
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Graph
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake Animation](https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-## 🐍 CONTRIBUTION SNAKE
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake-dark.svg)
+
+### 💜 Looking For Collaboration
+
+```
+🚀 Open to exciting Django projects
+🤝 Available for freelance opportunities  
+📚 Happy to mentor junior developers
+☕ Always down for coffee & code sessions
+🌟 Seeking innovative startup opportunities
+```
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rxnjitth&label=Profile%20Views&color=9d4edd&style=flat-square)
+
+<br>
+
+### ⚡ *"Great software is built by great teams, not great individuals"* ⚡
 
 </div>
 
----
-
 <div align="center">
-
-### 📡 TRANSMISSION LOG
-
-```
-[INFO] Profile views: 
-```
-![Visitor Count](https://komarev.com/ghpvc/?username=rxnjitth&label=Hackers%20Detected&color=brightgreen&style=flat-square)
-
-```
-[STATUS] Available for hire: TRUE
-[MODE] Collaboration: ENABLED  
-[SIGNAL] Coffee Level: OPTIMAL ☕
-```
-
-### 🎯 LOOKING FOR
-
-- 🚀 **Exciting Django Projects**
-- 👥 **Open Source Collaborations** 
-- 🎓 **Mentoring Opportunities**
-- ☕ **Coffee & Code Sessions**
-
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,9,15,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
