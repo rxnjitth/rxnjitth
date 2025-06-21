@@ -1,12 +1,22 @@
-<h1>Hey There 👋, I'm Ranjith</h1>
-<p>Backend Developer & DevOps Enthusiast | Building scalable systems 🚀 | Python | ☁️ AWS |🐳 Docker| Coffee-fueled tinkerer. Let’s build something resilient!</p>
-<p>🔭 I’m currently working on Django project/Website
+# Hi, I'm Ranjith 👋
 
-🌱 I’m currently learning Cloud & Devops / Fullstack Development / AWS
+**DevOps Enthusiast | AWS Practitioner | Backend Developer**  
+Passionate about cloud infrastructure, automation, and building scalable systems using tools like Docker, Jenkins, and Kubernetes.
 
-💬 Ask me about Python,Docker,Blender
+---
 
-📫 How to reach me mranjith2506@gmail.com</p>
+🔭 Currently working on a Django-based web application  
+🌱 Exploring DevOps, AWS, and Full-Stack Development  
+🔧 Hands-on with CI/CD pipelines, Docker, Kubernetes, and AWS services like EC2, S3, IAM, Lambda  
+💬 Ask me about Python, Docker, or even 3D design with Blender  
+📫 Reach me at: **mranjith2506@gmail.com**
+
+---
+
+![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mranjith2506&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mranjith2506&layout=compact&theme=radical)
+
 <h2>🗿 Tech Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
