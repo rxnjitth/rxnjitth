@@ -15,35 +15,70 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 💼 Professional Overview
-
 <div align="center">
 
-```yaml
-Professional Identity:
-  name: "Ranjith M Sundaram"
-  title: "Senior Full Stack Developer"
-  specialization: "Django • Cloud Architecture • 3D Development"
-  experience: "Building enterprise-grade applications since 2021"
-  location: "Coimbatore, Tamil Nadu, India"
-  
-Core Competencies:
-  backend: ["Python", "Django REST Framework", "MySQL Optimization"]
-  frontend: ["Responsive Web Design", "Bootstrap", "Modern CSS"]
-  cloud: ["AWS Solutions Architecture", "Docker Containerization"] 
-  creative: ["3D Modeling", "Blender", "Technical Visualization"]
-  
-Current Focus Areas:
-  architecture: "Designing scalable microservices ecosystems"
-  innovation: "Developing SaaS platforms with Django"
-  growth: "Advancing cloud-native development practices"
-  contribution: "Open source community engagement"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=200&section=header&text=Ranjith%20M%20Sundaram&fontSize=45&fontAlignY=35&fontColor=FFFFFF"/>
 
 </div>
 
+```console
+🔧 Booting DevOpsEngine...
+
+┌──────────────────────────────────────────────┐
+│  🧠 Name         : Ranjith M Sundaram         │
+│  🧰 Role         : Backend Dev + DevOps Nerd  │
+│  📍 Location     : Coimbatore, India 🌍       │
+│  🌐 Currently    : Deploying dreams to cloud ☁️ │
+└──────────────────────────────────────────────┘
+
+🚀 STACK LOADED
+  - Python · Django · MySQL
+  - AWS · Docker · Jenkins · Linux
+  - HTML5 · CSS3 · Bootstrap · Blender
+
+🔥 CURRENT STATUS
+  → Learning: Kubernetes, CI/CD
+  → Building: Django cloud apps
+  → Loving : Automation & Debugging
+
+📫 CONNECT
+  mranjith2506@gmail.com · linkedin.com/in/ranjithmsundaram
+
+🧪 TIP
+  If it breaks → blame the config 😅 → fix with shell magic
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=200&section=header&text=Ranjith%20M%20Sundaram&fontSize=45&fontAlignY=35&fontColor=FFFFFF"/>
+
+</div>
+
+```console
+🔧 Booting DevOpsEngine...
+
+┌──────────────────────────────────────────────┐
+│  🧠 Name         : Ranjith M Sundaram         │
+│  🧰 Role         : Backend Dev + DevOps Nerd  │
+│  📍 Location     : Coimbatore, India 🌍       │
+│  🌐 Currently    : Deploying dreams to cloud ☁️ │
+└──────────────────────────────────────────────┘
+
+🚀 STACK LOADED
+  - Python · Django · MySQL
+  - AWS · Docker · Jenkins · Linux
+  - HTML5 · CSS3 · Bootstrap · Blender
+
+🔥 CURRENT STATUS
+  → Learning: Kubernetes, CI/CD
+  → Building: Django cloud apps
+  → Loving : Automation & Debugging
+
+📫 CONNECT
+  mranjith2506@gmail.com · linkedin.com/in/ranjithmsundaram
+
+🧪 TIP
+  If it breaks → blame the config 😅 → fix with shell magic
+
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=DevOps+in+progress...;Cloud+deployments+loading...;Automation+>+Repetition;Let+the+code+flow+🔥"/> </div>
 ## 🛠️ Technology Stack
 
 <div align="center">
