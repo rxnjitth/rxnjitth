@@ -2,7 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,8,9,15,30&height=300&section=header&text=RANJITH&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
+<div align="center">
 
+```
+██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗    ███╗   ███╗██╗███╗   ██╗██████╗ 
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝    ████╗ ████║██║████╗  ██║██╔══██╗
+██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗      ██╔████╔██║██║██╔██╗ ██║██║  ██║
+██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝      ██║╚██╔╝██║██║██║╚██╗██║██║  ██║
+██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗    ██║ ╚═╝ ██║██║██║ ╚████║██████╔╝
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ 
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -15,65 +26,47 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=200&section=header&text=Ranjith%20M%20Sundaram&fontSize=45&fontAlignY=35&fontColor=FFFFFF"/>
+## 🌟 About My Code Journey
 
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-```console
-🔧 Booting DevOpsEngine...
+### 💜 Developer Profile
+```json
+{
+  "name": "Ranjith M Sundaram",
+  "role": "Full Stack Developer",
+  "location": "Coimbatore, Tamil Nadu",
+  "status": "Building Digital Solutions",
+  "passion": "Turning Ideas Into Reality",
+  "fuel": "☕ Coffee & 🎵 Music",
+  "mission": "Creating Impactful Applications"
+}
+```
 
-┌──────────────────────────────────────────────┐
-│  🧠 Name         : Ranjith M Sundaram         │
-│  🧰 Role         : Backend Dev + DevOps Nerd  │
-│  📍 Location     : Coimbatore, India 🌍       │
-│  🌐 Currently    : Deploying dreams to cloud ☁️ │
-└──────────────────────────────────────────────┘
+</td>
+<td width="50%" align="center">
 
-🚀 STACK LOADED
-  - Python · Django · MySQL
-  - AWS · Docker · Jenkins · Linux
-  - HTML5 · CSS3 · Bootstrap · Blender
+### 🔮 Current Quest
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.learning = "Microservices Architecture"
+        self.building = "Django SaaS Platform"
+        self.exploring = "Kubernetes & Docker"
+        self.creating = "3D Visualizations"
+        
+    def daily_routine(self):
+        return ["Code", "Learn", "Build", "Repeat"]
+```
 
-🔥 CURRENT STATUS
-  → Learning: Kubernetes, CI/CD
-  → Building: Django cloud apps
-  → Loving : Automation & Debugging
+</td>
+</tr>
+</table>
 
-📫 CONNECT
-  mranjith2506@gmail.com · linkedin.com/in/ranjithmsundaram
-
-🧪 TIP
-  If it breaks → blame the config 😅 → fix with shell magic
-<div align="center">
-
-```console
-🔧 Booting DevOpsEngine...
-
-┌──────────────────────────────────────────────┐
-│  🧠 Name         : Ranjith M Sundaram         │
-│  🧰 Role         : Backend Dev + DevOps Nerd  │
-│  📍 Location     : Coimbatore, India 🌍       │
-│  🌐 Currently    : Deploying dreams to cloud ☁️ │
-└──────────────────────────────────────────────┘
-
-🚀 STACK LOADED
-  - Python · Django · MySQL
-  - AWS · Docker · Jenkins · Linux
-  - HTML5 · CSS3 · Bootstrap · Blender
-
-🔥 CURRENT STATUS
-  → Learning: Kubernetes, CI/CD
-  → Building: Django cloud apps
-  → Loving : Automation & Debugging
-
-📫 CONNECT
-  mranjith2506@gmail.com · linkedin.com/in/ranjithmsundaram
-
-🧪 TIP
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technology Stack
 
@@ -120,7 +113,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎯 Skill Progression
 
+<div align="center">
+
+| Technology | Experience | Proficiency |
+|:----------:|:----------:|:-----------:|
+| 🐍 **Python** | 3+ Years | ![90%](https://progress-bar.dev/90?color=9D4EDD) |
+| 🌐 **Django** | 2+ Years | ![85%](https://progress-bar.dev/85?color=9D4EDD) |
+| ☁️ **AWS** | 1+ Years | ![70%](https://progress-bar.dev/70?color=9D4EDD) |
+| 🐳 **Docker** | 1+ Years | ![65%](https://progress-bar.dev/65?color=9D4EDD) |
+| 🎨 **Frontend** | 2+ Years | ![80%](https://progress-bar.dev/80?color=9D4EDD) |
+| 🎭 **Blender** | 6+ Months | ![45%](https://progress-bar.dev/45?color=9D4EDD) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -134,6 +140,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🌙 Current Vibe
+
+<div align="center">
+
+### 🎵 Coding Soundtrack
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?background_color=0d1117&border_color=9d4edd)
+
+### 💭 Developer Thoughts
+```css
+.developer-mindset {
+    motivation: 100%;
+    caffeine-level: high;
+    learning-mode: always-on;
+    debug-skills: legendary;
+    creativity: unlimited;
+    problem-solving: expert;
+}
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -144,9 +170,47 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.linkedin.com/in/ranjithmsundaram/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.instagram.com/rxnjitth/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=1A0B2E)](mailto:your.email@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=9D4EDD&labelColor=1A0B2E)](https://your-portfolio.com)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎪 Fun Zone
+
+<div align="center">
+
+### 🎮 Developer Stats
+```yaml
+Lines of Code Written: ∞
+Bugs Fixed: 999+
+Coffee Consumed: 🔥🔥🔥
+Stack Overflow Visits: Daily
+Favorite Debug Method: "It works on my machine" 🤷‍♂️
+Coding Playlist: Lo-fi & Synthwave
+Dream Project: World-changing app
+Superpower: Turning coffee into code
+```
+
+### 🔮 Random Dev Wisdom
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&type=horizontal&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+![Snake Animation](https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,9,15,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
