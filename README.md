@@ -26,47 +26,34 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💼 Professional Overview
 
-## 🌟 About My Code Journey
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 💜 Developer Profile
-```json
-{
-  "name": "Ranjith M Sundaram",
-  "role": "Full Stack Developer",
-  "location": "Coimbatore, Tamil Nadu",
-  "status": "Building Digital Solutions",
-  "passion": "Turning Ideas Into Reality",
-  "fuel": "☕ Coffee & 🎵 Music",
-  "mission": "Creating Impactful Applications"
-}
+```yaml
+Professional Identity:
+  name: "Ranjith M Sundaram"
+  title: "Senior Full Stack Developer"
+  specialization: "Django • Cloud Architecture • 3D Development"
+  experience: "Building enterprise-grade applications since 2021"
+  location: "Coimbatore, Tamil Nadu, India"
+  
+Core Competencies:
+  backend: ["Python", "Django REST Framework", "MySQL Optimization"]
+  frontend: ["Responsive Web Design", "Bootstrap", "Modern CSS"]
+  cloud: ["AWS Solutions Architecture", "Docker Containerization"] 
+  creative: ["3D Modeling", "Blender", "Technical Visualization"]
+  
+Current Focus Areas:
+  architecture: "Designing scalable microservices ecosystems"
+  innovation: "Developing SaaS platforms with Django"
+  growth: "Advancing cloud-native development practices"
+  contribution: "Open source community engagement"
 ```
 
-</td>
-<td width="50%" align="center">
+</div>
 
-### 🔮 Current Quest
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.learning = "Microservices Architecture"
-        self.building = "Django SaaS Platform"
-        self.exploring = "Kubernetes & Docker"
-        self.creating = "3D Visualizations"
-        
-    def daily_routine(self):
-        return ["Code", "Learn", "Build", "Repeat"]
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
 ## 🛠️ Technology Stack
 
