@@ -211,26 +211,6 @@ Superpower: Turning coffee into code
 
 <div align="center">
 
-### 💜 Looking For Collaboration
-
-```
-🚀 Open to exciting Django projects
-🤝 Available for freelance opportunities  
-📚 Happy to mentor junior developers
-☕ Always down for coffee & code sessions
-🌟 Seeking innovative startup opportunities
-```
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rxnjitth&label=Profile%20Views&color=9d4edd&style=flat-square)
-
-<br>
-
-### ⚡ *"Great software is built by great teams, not great individuals"* ⚡
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,9,15,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
