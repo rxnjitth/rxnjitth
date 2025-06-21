@@ -48,10 +48,6 @@
   If it breaks → blame the config 😅 → fix with shell magic
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=200&section=header&text=Ranjith%20M%20Sundaram&fontSize=45&fontAlignY=35&fontColor=FFFFFF"/>
-
-</div>
-
 ```console
 🔧 Booting DevOpsEngine...
 
@@ -76,9 +72,9 @@
   mranjith2506@gmail.com · linkedin.com/in/ranjithmsundaram
 
 🧪 TIP
-  If it breaks → blame the config 😅 → fix with shell magic
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=DevOps+in+progress...;Cloud+deployments+loading...;Automation+>+Repetition;Let+the+code+flow+🔥"/> </div>
+
+
 ## 🛠️ Technology Stack
 
 <div align="center">
