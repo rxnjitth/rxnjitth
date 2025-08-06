@@ -103,7 +103,7 @@ class CurrentFocus:
 
 ### 🏅 Professional Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd5b048b-a433-46a6-9eeb-81747702eca9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd5b048b-a433-46a6-9eeb-81747702eca9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 🏆 GitHub Trophies
 
