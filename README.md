@@ -20,7 +20,7 @@
 
 ```yaml
 personal_info:
-  name: "Ranjith M Sundaram"
+  name: "Ranjith M"
   title: "Full Stack Architect"
   location: "🌍 Coimbatore, Tamil Nadu"
   motto: "Code • Create • Conquer"
