@@ -1,251 +1,269 @@
-<!-- HOLOGRAPHIC HEADER -->
+<!-- EPIC GAME LOADING SCREEN -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,26,29,30&height=350&section=header&text=◈%20RANJITH%20◈&fontSize=90&fontAlign=50&fontAlignY=35&fontColor=fff&animation=blinking&desc=◦%20DIGITAL%20ARCHITECT%20◦%20CODE%20ALCHEMIST%20◦%20INNOVATION%20CATALYST%20◦&descAlign=50&descAlignY=65&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,19,30&height=350&section=header&text=⚔️%20RANJITH%20⚔️&fontSize=90&fontAlign=50&fontAlignY=30&fontColor=FFD700&animation=blinking&desc=『%20LEGENDARY%20DEVELOPER%20』『%20CODE%20WARRIOR%20』『%20DIGITAL%20CHAMPION%20』&descAlign=50&descAlignY=70&descSize=16" width="100%"/>
 </div>
 
-<!-- MATRIX STYLE INTRODUCTION -->
+<!-- GAME HUD INTERFACE -->
 <div align="center">
 
-```diff
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@                         🔮 ENTERING THE MATRIX 🔮                          @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-+ SYSTEM STATUS      : ✅ OPERATIONAL
-+ LOCATION           : 📍 COIMBATORE, TAMIL NADU
-+ CURRENT MISSION    : 🚀 BUILDING THE FUTURE
-+ ACCESS LEVEL       : 🔐 ARCHITECT MODE
-+ COFFEE LEVEL       : ☕ MAXIMUM OVERCLOCK
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗     ██╗   ██╗███╗   ██╗██╗      ██████╗  ██████╗██╗  ██╗███████╗██████╗ 
+██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ██║   ██║████╗  ██║██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝    ██║   ██║██╔██╗ ██║██║     ██║   ██║██║     █████╔╝ █████╗  ██║  ██║
+██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗    ██║   ██║██║╚██╗██║██║     ██║   ██║██║     ██╔═██╗ ██╔══╝  ██║  ██║
+██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║    ╚██████╔╝██║ ╚████║███████╗╚██████╔╝╚██████╗██║  ██╗███████╗██████╔╝
+╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E%3E%3E+Initializing+Developer+Protocol...;%3E%3E%3E+Loading+Creative+Algorithms...;%3E%3E%3E+Deploying+Innovation+Matrix...;%3E%3E%3E+Ready+to+Build+Digital+Worlds!" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🎮+LOADING+PLAYER+DATA...;⚔️+INITIALIZING+COMBAT+SYSTEMS...;🏆+ACHIEVEMENTS+LOADED+SUCCESSFULLY!;🚀+READY+FOR+EPIC+ADVENTURES!" />
 
 </div>
 
-<!-- CYBERPUNK TERMINAL INTERFACE -->
+<!-- PLAYER CHARACTER STATS -->
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║  █▀▀█ █▀▀█ █▀▀▄ █▀▀ 　 █▀▀█ █▀▀█ █▀▀▄ █▀▀ ╦ █▀▀▄ █▀▀ ▀▀█▀▀ █▀▀█ █▀▀ ▀▀█▀▀ █▀▀█ █▀▀█  ║
-║  █  █ █  █ █  █ █▀▀ 　 █▄▄█ █▄▄▀ █  █ █▀▀ ║ █▀▀▄ █▀▀   █   █▄▄█ █▀▀   █   █  █ █▄▄▀  ║
-║  ▀▀▀▀ ▀▀▀▀ ▀▀▀  ▀▀▀ 　 ▀  ▀ ▀ ▀▀ ▀▀▀  ▀▀▀ ╩ ▀  ▀ ▀▀▀   ▀   ▀  ▀ ▀▀▀   ▀   ▀▀▀▀ ▀ ▀▀  ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+### 🎯 **PLAYER CHARACTER: RANJITH_THE_CODER** 🎯
 
 </div>
 
-<!-- HOLOGRAM STYLE PROFILE CARDS -->
 <table align="center" width="100%">
 <tr>
 <td width="33%" align="center">
 
-### 🌌 **NEURAL PROFILE**
-```json
-{
-  "entity": "Ranjith M Sundaram",
-  "class": "FullStackArchitect",
-  "region": "TamilNadu.India",
-  "protocols": [
-    "Django.Master",
-    "Cloud.Engineer", 
-    "3D.Artist",
-    "Innovation.Core"
-  ],
-  "energySource": "☕ + 🎵",
-  "mission": "BuildTheFuture()"
-}
-```
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ **SYSTEM METRICS**
-```python
-class PerformanceCore:
-    def __init__(self):
-        self.uptime = "24/7"
-        self.efficiency = "99.9%"
-        self.creativity = "UNLIMITED"
-        self.learning_rate = "∞"
-        
-    def current_focus(self):
-        return {
-            "microservices": "ADVANCED",
-            "kubernetes": "DEPLOYING",
-            "ai_integration": "EXPLORING"
-        }
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🔮 **QUANTUM STATE**
+### ⚔️ **CHARACTER STATS**
 ```yaml
-quantum_processor:
-  active_threads:
-    - "Django SaaS Platform"
-    - "Cloud Architecture"  
-    - "3D Modeling Projects"
-  
-  next_evolution:
-    - "AI/ML Integration"
-    - "Blockchain Exploration"
-    - "IoT Solutions"
+🏷️ Player Name: "Ranjith M Sundaram"
+🎭 Class: "Full Stack Paladin"
+🗺️ Region: "Coimbatore Kingdom"
+⭐ Level: 99 (MAX)
+🔥 Experience: 999,999 XP
+
+💪 Attributes:
+  - Coding: ████████████ 99/99
+  - Creativity: ████████████ 99/99
+  - Problem Solving: ████████████ 99/99
+  - Leadership: ██████████░░ 88/99
+  - Innovation: ████████████ 99/99
+
+🎮 Status: LEGENDARY ONLINE
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🛡️ **EQUIPPED SKILLS**
+```python
+class CodeWarrior:
+    def __init__(self):
+        self.primary_weapon = "Python Blade ⚔️"
+        self.secondary_weapon = "Django Shield 🛡️"
+        self.armor_set = "Cloud Defender Suit ☁️"
+        
+    def special_abilities(self):
+        return {
+            "Ultimate": "Full Stack Devastation",
+            "Combo": "Microservices Rain",
+            "Passive": "Continuous Integration",
+            "Legendary": "Bug Slayer 🐛⚔️"
+        }
     
-  power_level: "MAXIMUM"
+    def current_quest(self):
+        return "Building SaaS Empire 🏰"
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 **DAILY MISSIONS**
+```diff
+TODAY'S OBJECTIVES:
+
++ ✅ Deploy Cloud Infrastructure
++ ✅ Master New Algorithm  
++ ✅ Defeat 50 Bugs
++ ⏳ Build Epic Feature
++ ⏳ Level Up Team Skills
+
+WEEKLY BOSS BATTLES:
++ 🐉 The Kubernetes Dragon
++ 👹 The Microservices Demon  
++ 🦖 The Legacy Code Beast
+
+💎 RARE DROPS EARNED:
+- Efficiency Boost +25%
+- Code Quality Enhancement
+- Team Leadership Badge
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- NEON TECH STACK MATRIX -->
+<!-- SKILL TREE INTERFACE -->
 <div align="center">
 
-## ⚡ **TECHNOLOGY MATRIX** ⚡
+## 🌟 **SKILL TREE UNLOCKED** 🌟
 
-### 🔥 **BACKEND ARSENAL**
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,mongodb,nodejs,express&perline=10&theme=dark" />
+### ⚔️ **BACKEND WARRIOR TREE**
+<img src="https://img.shields.io/badge/Python-🐍_MASTERED-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-🛡️_LEGENDARY-FF6B6B?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-⚡_MAXED-00D4AA?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-🗄️_ELITE-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-💎_RARE-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-### 🎨 **FRONTEND SPECTRUM**  
-<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,js,typescript,tailwind,bootstrap,sass&perline=10&theme=dark" />
+### 🎨 **FRONTEND MAGE TREE**
+<img src="https://img.shields.io/badge/React-⚛️_ARCHMAGE-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-✨_SPELLCASTER-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-🔥_ENCHANTED-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-💫_MYSTICAL-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-🎭_LEGENDARY-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-### ☁️ **CLOUD DIMENSION**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,nginx,linux,ubuntu&perline=10&theme=dark" />
+### ☁️ **CLOUD GUARDIAN TREE**  
+<img src="https://img.shields.io/badge/AWS-👑_CLOUD_KING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-🐳_CONTAINER_LORD-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-⚙️_ORCHESTRATOR-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-🐧_TERMINAL_MASTER-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-### 🛠️ **DEVELOPMENT SUITE**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,blender,photoshop,unity,androidstudio,firebase&perline=10&theme=dark" />
+### 🎮 **CREATIVE ARTS TREE**
+<img src="https://img.shields.io/badge/Blender-🎨_3D_WIZARD-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-🔱_VERSION_SORCERER-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
-<!-- HOLOGRAPHIC STATS DASHBOARD -->
+<!-- GAMING DASHBOARD -->
 <div align="center">
 
-## 📊 **NEURAL NETWORK ANALYTICS** 
+## 📊 **PERFORMANCE DASHBOARD** 📊
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff6b35&border_radius=15&card_width=500" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&border_radius=15&card_width=400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=70a5fd&icon_color=bf91f3&card_width=400&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=70a5fd&card_width=300&border_radius=10" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=ff6b35&fire=00ff41&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff41&sideNums=ff6b35&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=tokyonight&hide_border=true&background=1a1b27&stroke=FFD700&ring=bf91f3&fire=ff7a93&currStreakLabel=70a5fd&sideLabels=70a5fd&currStreakNum=FFD700&sideNums=bf91f3&border_radius=10" />
 
 </div>
 
-<!-- CONTRIBUTION HEATMAP -->
+<!-- BOSS BATTLE ACTIVITY -->
 <div align="center">
 
-### 🔥 **DIGITAL FOOTPRINT HEATMAP**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rxnjitth&bg_color=0a0a0a&color=00ff41&line=ff6b35&point=ffffff&area=true&hide_border=true&radius=15" width="100%"/>
+### ⚔️ **RECENT BATTLES & VICTORIES** ⚔️
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rxnjitth&bg_color=1a1b27&color=70a5fd&line=FFD700&point=ff7a93&area=true&hide_border=true&radius=10" width="100%"/>
 
 </div>
 
-<!-- ACHIEVEMENT VAULT -->
+<!-- ACHIEVEMENTS SHOWCASE -->
 <div align="center">
 
-## 🏆 **ACHIEVEMENT VAULT** 
+## 🏆 **ACHIEVEMENT GALLERY** 🏆
 
-### 💎 **CERTIFIED PROTOCOLS**
-<table>
+### 💎 **LEGENDARY CERTIFICATIONS**
+<table align="center">
 <tr>
-<td align="center">
-<img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
-<br><sub><b>Professional Cert</b></sub>
+<td align="center" width="200">
+<img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" style="border-radius: 10px;"/>
+<br>
+<sub><b>🏅 EPIC CERTIFICATION</b></sub>
+<br>
+<img src="https://img.shields.io/badge/STATUS-UNLOCKED-FFD700?style=for-the-badge" />
 </td>
-<td align="center">
+<td align="center" width="300">
 
 ```
-[██████████] 100% COMPLETE
-🔐 AUTHENTICATION: VERIFIED
-🏅 STATUS: ACTIVE  
-⚡ POWER LEVEL: MAXIMUM
-🎯 NEXT TARGET: ADVANCED AI
+🎮 ACHIEVEMENT UNLOCKED! 🎮
+
+╔══════════════════════════════╗
+║  🏆 CERTIFICATION MASTER     ║
+║                              ║
+║  💎 Rarity: LEGENDARY        ║
+║  ⭐ Points: +9999 XP         ║
+║  🔥 Bonus: +50% Skill Boost  ║
+║  🎯 Next: Advanced AI Quest  ║
+╚══════════════════════════════╝
 ```
 
 </td>
 </tr>
 </table>
 
-### 🌟 **GITHUB ACHIEVEMENTS**
-<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" />
+### 🌟 **GITHUB BATTLE TROPHIES**
+<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=onestar&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" />
 
 </div>
 
-<!-- CONNECTION MATRIX -->
+<!-- GUILD & CONNECTIONS -->
 <div align="center">
 
-## 🌐 **CONNECTION MATRIX**
+## 🏰 **JOIN THE GUILD** 🏰
 
 ```
-    ┌─────────────────────────────────────────┐
-    │  ESTABLISHING SECURE CONNECTIONS...     │
-    └─────────────────────────────────────────┘
+🎮 LOOKING FOR EPIC TEAMMATES? 🎮
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📧 Send Party Invite
+💬 Join Discord Channel  
+🤝 Alliance Requests Welcome
+⚔️ Ready for Co-op Missions!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <a href="https://www.linkedin.com/in/ranjithmsundaram/">
-<img src="https://img.shields.io/badge/◉_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/LinkedIn-🏢_BUSINESS_GUILD-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/rxnjitth/">
-<img src="https://img.shields.io/badge/◉_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Instagram-📸_ADVENTURE_LOG-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/◉_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Gmail-📧_PARTY_INVITE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discord.gg/yourserver">
-<img src="https://img.shields.io/badge/◉_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-🎮_VOICE_CHAT-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
 
-<!-- TERMINAL STYLE QUOTE -->
+<!-- POWER-UP SECTION -->
 <div align="center">
 
-```bash
-┌─[ranjith@matrix]─[~/innovation]
-└──╼ $ echo "The future belongs to those who build it"
+### ⚡ **POWER-UPS ACTIVE** ⚡
 
-┌─[system@response]─[~/philosophy]  
-└──╼ The future belongs to those who build it
+<img src="https://komarev.com/ghpvc/?username=rxnjitth&color=FFD700&style=for-the-badge&label=PLAYERS+VISITED" />
+<img src="https://img.shields.io/github/followers/rxnjitth?color=bf91f3&style=for-the-badge&label=GUILD+MEMBERS" />
+<img src="https://img.shields.io/badge/MULTIPLAYER-ONLINE-00FF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DIFFICULTY-NIGHTMARE-FF0000?style=for-the-badge" />
 
-┌─[ranjith@matrix]─[~/innovation]
-└──╼ $ while true; do code(); innovate(); inspire(); done
+</div>
+
+<!-- GAME OVER SCREEN STYLE QUOTE -->
+<div align="center">
+
+### 🎯 **LEGENDARY QUOTE** 🎯
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  "In the game of code, you either debug or you die.          ║
+║   But legends... legends write code that never breaks."      ║
+║                                                               ║
+║                        - Ranjith, The Code Slayer            ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<!-- ANALYTICS TERMINAL -->
-<div align="center">
-
-### ⚡ **SYSTEM MONITORING** ⚡
-
-<img src="https://komarev.com/ghpvc/?username=rxnjitth&color=00ff41&style=for-the-badge&label=NEURAL+CONNECTIONS" />
-<img src="https://img.shields.io/github/followers/rxnjitth?color=ff6b35&style=for-the-badge&label=NETWORK+NODES" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MODE-INNOVATION-ff6b35?style=for-the-badge" />
-
-</div>
-
-<!-- MATRIX FOOTER -->
+<!-- BOSS LEVEL FOOTER -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║    "In a world of algorithms, be the one who writes the future"                 ║
-║                                                                                  ║
-║    ◦ Built with 💚 Matrix Code & ☕ Infinite Coffee                           ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+🎮 GAME STATS 🎮
+═══════════════════════════════════════════════════════════════════════════════
+⏱️  PLAYTIME: ∞ Hours          🏆 ACHIEVEMENTS: 99/99        💎 RARE ITEMS: 42
+🔥 WIN STREAK: LEGENDARY       ⚡ POWER LEVEL: MAXIMUM       🎯 NEXT BOSS: AI/ML
+═══════════════════════════════════════════════════════════════════════════════
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,26&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,19,30&height=120&section=footer&animation=twinkling" />
 
-</div>
+### 🎮 **PRESS START TO CONTINUE** 🎮
 
-<!-- HIDDEN MATRIX RAIN EFFECT -->
-<div align="center">
-<sub><sup>◦ ◦ ◦ 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 ◦ ◦ ◦</sup></sub>
 </div>
