@@ -20,7 +20,7 @@
 
 ```yaml
 personal_info:
-  name: "Ranjith M"
+  name: "Ranjith M Sundaram"
   title: "Full Stack Architect"
   location: "🌍 Coimbatore, Tamil Nadu"
   motto: "Code • Create • Conquer"
@@ -101,12 +101,15 @@ class DeveloperLife:
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=rxnjitth&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rxnjitth&theme=noctis-minimus&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
+
+### 📈 **Contribution Activity**
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rxnjitth&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
 </div>
 
 <!-- Achievements Section -->
@@ -120,7 +123,7 @@ class DeveloperLife:
 [![Credly Badge](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dd5b048b-a433-46a6-9eeb-81747702eca9)
 
 ### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=neon&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -128,7 +131,11 @@ class DeveloperLife:
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-c560191dd39d" width="50"/>
 
-![Snake animation](https://github.com/rxnjitth/rxnjitth/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rxnjitth/rxnjitth/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
