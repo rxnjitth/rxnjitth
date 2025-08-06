@@ -11,8 +11,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Enthusiast;Cloud+Architect;3D+Artist;Problem+Solver)
 
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd5b048b-a433-46a6-9eeb-81747702eca9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 About My Code Journey
 
@@ -99,20 +97,21 @@ class CurrentFocus:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements Unlocked
+## 🎖️ Certifications & Achievements
 
 <div align="center">
+
+### 🏅 Professional Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd5b048b-a433-46a6-9eeb-81747702eca9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+### 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## 🌐 Connect With Me
 
@@ -122,9 +121,12 @@ class CurrentFocus:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.instagram.com/rxnjitth/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=1A0B2E)](mailto:your.email@gmail.com)
 
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 
+### 💡 "Code is poetry written in logic" 💡
+
+![Profile Views](https://komarev.com/ghpvc/?username=rxnjitth&color=9D4EDD&style=for-the-badge&label=Profile+Views)</div>
