@@ -1,132 +1,185 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,8,9,15,30&height=300&section=header&text=RANJITH&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=RANJITH%20M%20SUNDARAM&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=fff&animation=twinkling&desc=✨%20Architecting%20Digital%20Dreams%20Into%20Reality%20✨&descAlign=50&descAlignY=65&descSize=16" width="100%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-### ⚡ Welcome to My Digital Realm ⚡
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Enthusiast;Cloud+Architect;3D+Artist;Problem+Solver)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🎨+Digital+Architect;☁️+Cloud+Engineer;🔮+3D+Artist;💡+Innovation+Catalyst" alt="Typing Animation"/>
 </div>
 
-## 🌟 About My Code Journey
+<br/>
 
-<table width="100%">
+<!-- Neon Divider -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="40"> **About The Architect**
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 💜 Developer Profile
-```json
-{
-  "name": "Ranjith M Sundaram",
-  "role": "Full Stack Developer",
-  "location": "Coimbatore, Tamil Nadu",
-  "status": "Building Digital Solutions",
-  "passion": "Turning Ideas Into Reality",
-  "fuel": "☕ Coffee & 🎵 Music",
-  "mission": "Creating Impactful Applications"
-}
+```yaml
+personal_info:
+  name: "Ranjith M Sundaram"
+  title: "Full Stack Architect"
+  location: "🌍 Coimbatore, Tamil Nadu"
+  motto: "Code • Create • Conquer"
+  
+mindset:
+  - "🧠 Think Different"
+  - "🔥 Build Better" 
+  - "🚀 Ship Faster"
+  - "✨ Dream Bigger"
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🔮 Current Quest
 ```python
-class CurrentFocus:
+class DeveloperLife:
     def __init__(self):
-        self.learning = "Microservices Architecture"
-        self.building = "Django SaaS Platform"
-        self.exploring = "Kubernetes & Docker"
-        
-    def daily_routine(self):
-        return ["Code", "Learn", "Build", "Repeat"]
+        self.current_focus = {
+            "learning": ["Microservices", "K8s"],
+            "building": "Next-Gen SaaS Platform",
+            "exploring": "AI/ML Integration"
+        }
+    
+    def daily_mantra(self):
+        return "Stay curious, stay hungry! 🔥"
 ```
 
 </td>
 </tr>
 </table>
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Tech Stack with Neon Effect -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-## 🛠️ Technology Stack
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40"> **Arsenal of Technologies**
 
 <div align="center">
 
-### Backend Mastery
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=1A0B2E)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=9D4EDD&labelColor=1A0B2E)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9D4EDD&labelColor=1A0B2E)
+### 🔥 **Backend Powerhouse**
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,redis,mongodb&theme=dark" />
+</p>
 
-### Frontend Craft
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9D4EDD&labelColor=1A0B2E)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=1A0B2E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=9D4EDD&labelColor=1A0B2E)
+### 🎨 **Frontend Artistry** 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,vue,tailwind&theme=dark" />
+</p>
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=9D4EDD&labelColor=1A0B2E)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=1A0B2E)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=9D4EDD&labelColor=1A0B2E)
+### ☁️ **DevOps & Cloud Mastery**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,nginx,linux&theme=dark" />
+</p>
 
-### Creative Tools
-![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=9D4EDD&labelColor=1A0B2E)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9D4EDD&labelColor=1A0B2E)
+### 🛠️ **Tools & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,blender,figma,photoshop,ubuntu&theme=dark" />
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- GitHub Stats with Neon Theme -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-## 📊 GitHub Analytics
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="40"> **Digital Performance Metrics**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=7209B7&ring_color=9D4EDD"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF"/>
-
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=rxnjitth&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_radius=10&card_width=400" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxnjitth&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&card_width=400" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rxnjitth&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=7209B7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=9D4EDD&sideNums=9D4EDD)
-
+<img src="https://streak-stats.demolab.com/?user=rxnjitth&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=00D9FF&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rxnjitth&theme=noctis-minimus&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
+</div>
 
-## 🎖️ Certifications & Achievements
+<!-- Achievements Section -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6038136c-6d3b-4c5b-94dd-7f2c9d7811c0" width="40"> **Achievements Unlocked**
 
 <div align="center">
 
-### 🏅 Professional Certifications
+### 🏅 **Professional Certifications**
+[![Credly Badge](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dd5b048b-a433-46a6-9eeb-81747702eca9)
 
-[![Credly Badge](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/dd5b048b-a433-46a6-9eeb-81747702eca9)
-
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+### 🏆 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=neon&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Connect With Me
-
+<!-- Snake Animation -->
 <div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-c560191dd39d" width="50"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.linkedin.com/in/ranjithmsundaram/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=1A0B2E)](https://www.instagram.com/rxnjitth/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=1A0B2E)](mailto:your.email@gmail.com)
+![Snake animation](https://github.com/rxnjitth/rxnjitth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Connect Section -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f038cb31-4540-4320-9e51-5f12ec82be9a" width="40"> **Let's Connect & Collaborate**
 
 <div align="center">
+<p>
+<a href="https://www.linkedin.com/in/ranjithmsundaram/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/rxnjitth/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram"/>
+</a>
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Gmail"/>
+</a>
+<a href="https://twitter.com/rxnjitth">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&border_radius=10" alt="Twitter"/>
+</a>
+</p>
+</div>
 
-### 💡 "Code is poetry written in logic" 💡
+<!-- Quote Section -->
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rxnjitth&color=9D4EDD&style=for-the-badge&label=Profile+Views)</div>
+### 💭 **Philosophy**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=The%20best%20code%20is%20written%20when%20passion%20meets%20purpose&author=Ranjith%20M%20Sundaram" alt="Quote"/>
+
+</div>
+
+<!-- Profile Views with Neon Effect -->
+<div align="center">
+<br/>
+
+### 🔥 **Profile Analytics**
+<img src="https://komarev.com/ghpvc/?username=rxnjitth&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/rxnjitth?color=00d9ff&style=for-the-badge&label=Followers" alt="GitHub Followers"/>
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+<i>⚡ "Building the future, one commit at a time" ⚡</i>
+</div>
