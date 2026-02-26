@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,8,9,15,30&height=300&section=header&text=RANJITH&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,8,9,15,30&height=300&section=header&text=RANJITH&fontSize=100&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Specialist&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -8,7 +8,7 @@
 
 ### ⚡ Welcome to My Digital Realm ⚡
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+Enthusiast;Cloud+Architect;3D+Artist;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=DevOps+Engineer;CI/CD+Pipeline+Expert;Kubernetes+Specialist;Cloud+Automation+Architect;Infrastructure+as+Code)
 
 </div>
 
@@ -18,16 +18,16 @@
 <tr>
 <td width="50%" align="center">
 
-### 💜 Developer Profile
+### 💜 DevOps Profile
 ```json
 {
   "name": "Ranjith M Sundaram",
-  "role": "Full Stack Developer",
+  "role": "DevOps Engineer",
   "location": "Coimbatore, Tamil Nadu",
-  "status": "Building Digital Solutions",
-  "passion": "Turning Ideas Into Reality",
+  "status": "Automating Infrastructure",
+  "passion": "Building Scalable Systems",
   "fuel": "☕ Coffee & 🎵 Music",
-  "mission": "Creating Impactful Applications"
+  "mission": "Streamlining Deployment Pipelines"
 }
 ```
 
@@ -38,12 +38,12 @@
 ```python
 class CurrentFocus:
     def __init__(self):
-        self.learning = "Microservices Architecture"
-        self.building = "Django SaaS Platform"
-        self.exploring = "Kubernetes & Docker"
+        self.learning = "GitOps & ArgoCD"
+        self.building = "Multi-Cloud Infrastructure"
+        self.exploring = "Service Mesh & Istio"
         
     def daily_routine(self):
-        return ["Code", "Learn", "Build", "Repeat"]
+        return ["Automate", "Deploy", "Monitor", "Optimize"]
 ```
 
 </td>
@@ -52,28 +52,50 @@ class CurrentFocus:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technology Stack
+## 🛠️ DevOps Toolchain
 
 <div align="center">
 
-### Backend Mastery
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=1A0B2E)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=9D4EDD&labelColor=1A0B2E)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9D4EDD&labelColor=1A0B2E)
-
-### Frontend Craft
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9D4EDD&labelColor=1A0B2E)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=1A0B2E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=9D4EDD&labelColor=1A0B2E)
-
-### DevOps & Cloud
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=9D4EDD&labelColor=1A0B2E)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=1A0B2E)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=9D4EDD&labelColor=1A0B2E)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=9D4EDD&labelColor=1A0B2E)
+![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=9D4EDD&labelColor=1A0B2E)
 
-### Creative Tools
-![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=9D4EDD&labelColor=1A0B2E)
+### Container & Orchestration
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9D4EDD&labelColor=1A0B2E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=9D4EDD&labelColor=1A0B2E)
+![Helm](https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### CI/CD Pipeline
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=9D4EDD&labelColor=1A0B2E)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-000000?style=for-the-badge&logo=gitlab&logoColor=9D4EDD&labelColor=1A0B2E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=9D4EDD&labelColor=1A0B2E)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argo&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=9D4EDD&labelColor=1A0B2E)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=9D4EDD&labelColor=1A0B2E)
+![Pulumi](https://img.shields.io/badge/Pulumi-000000?style=for-the-badge&logo=pulumi&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=9D4EDD&labelColor=1A0B2E)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=9D4EDD&labelColor=1A0B2E)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-000000?style=for-the-badge&logo=elastic&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Scripting & Automation
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=1A0B2E)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=9D4EDD&labelColor=1A0B2E)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9D4EDD&labelColor=1A0B2E)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9D4EDD&labelColor=1A0B2E)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=9D4EDD&labelColor=1A0B2E)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=9D4EDD&labelColor=1A0B2E)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=9D4EDD&labelColor=1A0B2E)
+![CentOS](https://img.shields.io/badge/CentOS-000000?style=for-the-badge&logo=centos&logoColor=9D4EDD&labelColor=1A0B2E)
 
 </div>
 
@@ -127,6 +149,6 @@ class CurrentFocus:
 
 <div align="center">
 
-### 💡 "Code is poetry written in logic" 💡
+### 💡 "Automate Everything, Monitor Always, Deploy Fearlessly" 💡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rxnjitth&color=9D4EDD&style=for-the-badge&label=Profile+Views)</div>
