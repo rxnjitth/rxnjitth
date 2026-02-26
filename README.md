@@ -77,13 +77,9 @@ philosophy: "Automate Everything, Monitor Always, Deploy Fearlessly"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=algolia&hide_border=false" alt="rxnjitth's streak"/>
 </p>
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
