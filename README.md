@@ -74,11 +74,7 @@ philosophy: "Automate Everything, Monitor Always, Deploy Fearlessly"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=algolia&hide_border=false" alt="rxnjitth's streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxnjitth&theme=algolia&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
