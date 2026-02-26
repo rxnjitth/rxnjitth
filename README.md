@@ -81,7 +81,7 @@ philosophy: "Automate Everything, Monitor Always, Deploy Fearlessly"
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rxnjitth&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
