@@ -107,7 +107,7 @@ philosophy: "Automate Everything, Monitor Always, Deploy Fearlessly"
 
 <div align="center">
   
-### 💭 *"In Dev Ops we trust: Automate, Deploy, Monitor, Repeat"* 💭
+### 💭 *"In DevOps we trust: Automate, Deploy, Monitor, Repeat"* 💭
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rxnjitth&color=blue&style=for-the-badge)
 
