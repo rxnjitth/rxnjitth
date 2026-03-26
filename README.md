@@ -17,7 +17,7 @@ name: Ranjith M Sundaram
 role: DevOps Engineer
 location: Coimbatore, Tamil Nadu
 current_focus:
-  - GitOps & ArgoCD
+  - GitOps & Argo-CD
   - Multi-Cloud Infrastructure
   - Service Mesh & Istio
   - Container Security
