@@ -2,7 +2,7 @@
 
 # 👨‍💻 RANJITH M SUNDARAM
 
-### DevOps Engineer | Cloud Architect | Infrastructure Automation Specialist
+### Dev-Ops Engineer | Cloud Architect | Infrastructure Automation Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Kubernetes+%26+Container+Orchestration;Infrastructure+as+Code+Expert)](https://git.io/typing-svg)
 
